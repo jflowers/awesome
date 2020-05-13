@@ -1,5 +1,9 @@
 
-
+* Other Awesome Lists
+  * [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators)
+  * https://ramitsurana.github.io/awesome-kubernetes/
+  * https://github.com/jk8s/awesome-kubernetes
+  
 
 * [asdf-vm](https://asdf-vm.com/#/) Manage multiple runtime versions with a single CLI tool
   * [Community Plugin Repo](https://github.com/asdf-vm/asdf-plugins)
@@ -24,4 +28,3 @@
   * [Metering](https://operatorhub.io/operator/metering-upstream)
   * [Multicluster Subscription Operator](https://operatorhub.io/operator/multicluster-operators-subscription)
   * [Quay](https://operatorhub.io/operator/quay)
-  
