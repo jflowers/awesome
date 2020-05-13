@@ -16,3 +16,12 @@
   * [Operator SDK](https://sdk.operatorframework.io/)
   * [operatorhub.io](https://operatorhub.io/)
   * [learn openshift labs for operator framework](https://learn.openshift.com/operatorframework/)
+
+
+* List of Operators to Keep an Eye on
+  * [Container Security](https://operatorhub.io/operator/container-security-operator)
+  * [Kubernetes Image Puller Operator](https://operatorhub.io/operator/kubernetes-imagepuller-operator)
+  * [Metering](https://operatorhub.io/operator/metering-upstream)
+  * [Multicluster Subscription Operator](https://operatorhub.io/operator/multicluster-operators-subscription)
+  * [Quay](https://operatorhub.io/operator/quay)
+  
